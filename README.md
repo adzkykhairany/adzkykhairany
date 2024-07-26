@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**adzkykhairany/adzkykhairany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Athiyya Adzky Khairany**, a data enthusiast with a keen interest in transforming data into actionable insights. I am actively learning and growing in the fields of data analysis, visualization, and system development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🔍 Interests:** Data Analysis, Data Science, Data Visualization, System Analysis, Technical Writing, Project Management
+- **💻 Tools & Technologies:** SQL, PostgreSQL, MySQL Workbench, Excel, Python,  PHP, CodeIgniter, Laravel, Figma
+- **📚 Current Focus:** Expanding my skills in data engineering and analysis through various learning opportunities and hands-on projects.
+
+## Contact
+
+Feel free to reach out to me:
+
+- **📧 Email:** [adzkyykhairany@gmail.com](mailto:adzkyykhairany@gmail.com)
+- **🔗 LinkedIn:** [Athiyya Adzky Khairany](https://www.linkedin.com/in/athiyya-adzky-khairany/)
+- **📸 Instagram:** [adzkykhairany](https://www.instagram.com/adzkykhairay)
+
+Thank you for visiting my profile! If you have any questions or want to collaborate, don't hesitate to contact me.
