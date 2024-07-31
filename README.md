@@ -12,8 +12,6 @@ I'm **Athiyya Adzky Khairany**, a data enthusiast with a keen interest in transf
 
 Feel free to reach out to me:
 
-- **📧 Email:** [adzkyykhairany@gmail.com](mailto:adzkyykhairany@gmail.com)
-- **🔗 LinkedIn:** [Athiyya Adzky Khairany](https://www.linkedin.com/in/athiyya-adzky-khairany/)
-- **📸 Instagram:** [adzkykhairany](https://www.instagram.com/adzkykhairay)
+**📧 Email:** [adzkyykhairany@gmail.com](mailto:adzkyykhairany@gmail.com)
 
 Thank you for visiting my profile! If you have any questions or want to collaborate, don't hesitate to contact me.
